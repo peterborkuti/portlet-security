@@ -1,0 +1,4 @@
+Bundle-Name: include-param
+Bundle-SymbolicName: include.param
+Bundle-Version: 1.0.0
+Export-Package: include.param.constants
