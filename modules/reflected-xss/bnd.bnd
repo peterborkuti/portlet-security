@@ -1,0 +1,4 @@
+Bundle-Name: reflected-xss
+Bundle-SymbolicName: reflected.xss
+Bundle-Version: 1.0.0
+Export-Package: reflected.xss.constants
