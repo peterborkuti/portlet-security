@@ -1,0 +1,4 @@
+Bundle-Name: persistent-xss
+Bundle-SymbolicName: persistent.xss
+Bundle-Version: 1.0.0
+Export-Package: persistent.xss.constants
